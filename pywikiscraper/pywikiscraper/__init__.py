@@ -14,6 +14,7 @@ class scrape:
         return html.fromstring(r.content)
     
     def headings(self,data):
+        self.head =[]
         _data = []
         heading = data.xpath('//li[contains(@class, "toclevel-")]')
         for li in heading:
@@ -21,7 +22,7 @@ class scrape:
             no = str(li.xpath('./a/span[1]/text()')).strip("[]")[1:-1]    
             link = str(li.xpath('./a/@href')).strip("[]")[1:-1]
             _data.append([no,text,link])
-            self.head.append([no,text])
+            self.head.append([no,text]) 
         return _data
     
     def get_text(self,index):
