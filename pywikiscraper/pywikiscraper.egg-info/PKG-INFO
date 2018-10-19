@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pywikiscraper
+Version: 0.0.5
+Summary: A litte package to easy scrape any wikipedia page
+Home-page: https://github.com/frier-sam/pywikiscraper
+Author: sam-iau
+Author-email: sam-iau@outlook.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
