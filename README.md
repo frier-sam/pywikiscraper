@@ -70,6 +70,9 @@ variable.text_dict
 ```
 variable.index_dict
 ```
+
+#### see the example.ipynb for implementation
+
 ## future improvements 
 
 currently working on making the tables in wikipedia pages available and not loosing information in lists
