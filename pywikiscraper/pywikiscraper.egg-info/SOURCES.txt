@@ -1,0 +1,8 @@
+README.md
+setup.py
+pywikiscraper/__init__.py
+pywikiscraper.egg-info/PKG-INFO
+pywikiscraper.egg-info/SOURCES.txt
+pywikiscraper.egg-info/dependency_links.txt
+pywikiscraper.egg-info/requires.txt
+pywikiscraper.egg-info/top_level.txt
