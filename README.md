@@ -3,10 +3,10 @@
 
 
 <h2>Installation - </h2><br>
-`pip install pywikiscraper`
+```pip install pywikiscraper```
 
 <h2>requirements - </h2><br>
-`lxml
-requests
+`lxml,
+requests,
 regural expression`
 </p>
